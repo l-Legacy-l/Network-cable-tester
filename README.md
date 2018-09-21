@@ -17,7 +17,7 @@ You can test the project with the Proteus simulation software and the right cabl
 ![alt text](https://github.com/l-Legacy-l/Network-cable-tester/blob/master/Images/proteus.PNG)
 
 You can also try it in real with a breadboard, the right hardware and MPlab software to upload the code into the PIC.
-![alt text](https://github.com/l-Legacy-l/Network-cable-tester/blob/master/Images/breadboard.PNG)
+![alt text](https://github.com/l-Legacy-l/Network-cable-tester/blob/master/Images/breadboard.png)
 
 You must use the compiled file NetworkCableTester.hex
 
